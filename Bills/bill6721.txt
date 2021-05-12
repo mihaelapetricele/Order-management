@@ -1,0 +1,13 @@
+  The Bill            
+  Client data
+Id Client: 2
+Name: Maria
+Adress: Cluj Napoca
+Email: maria@yahoo.com
+Age: 20
+  Product details
+Id Product: 1
+Name: laptop
+Quantity: 2
+Price: 1500.5
+  TOTAL price is: 3001.0

@@ -1,0 +1,13 @@
+  The Bill            
+  Client details
+Id Client: 5
+Name: Popescu Ioan
+Adress: Alba 
+Email: popescu.ioan@yahoo.com
+Age: 23
+  Product details
+Id Product: 3
+Name: TV
+Quantity: 2
+Price: 3500.5
+  TOTAL price is: 7001.0

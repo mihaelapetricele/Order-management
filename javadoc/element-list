@@ -1,0 +1,10 @@
+ro.tuc.tp
+ro.tuc.tp.bll
+ro.tuc.tp.bll.validators
+ro.tuc.tp.connection
+ro.tuc.tp.dao
+ro.tuc.tp.model
+ro.tuc.tp.presentation
+ro.tuc.tp.presentation.controller
+ro.tuc.tp.presentation.View
+ro.tuc.tp.start

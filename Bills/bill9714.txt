@@ -1,0 +1,13 @@
+  The Bill            
+  Client details
+Id Client: 1
+Name: Ana
+Adress: Arad
+Email: ana@yahoo.com
+Age: 18
+  Product details
+Id Product: 4
+Name: Carte
+Quantity: 5
+Price: 25.6
+  TOTAL price is: 128.0
